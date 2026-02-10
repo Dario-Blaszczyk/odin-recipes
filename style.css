@@ -13,7 +13,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: times ,sans-serif;
-    font-size: 35px;
     line-height: 1.1;
     text-align: center;
 }
@@ -22,6 +21,7 @@ h1 {
     color: rgb(255, 255, 255);
     margin-top: 10px;
     filter: drop-shadow(6px 6px 4px #5306ac)
+    font-size: 35px;
 }
 
 h2 {
